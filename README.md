@@ -9,4 +9,4 @@ I'm a passionate software developer with a focus on big data. Currently, I'm bas
 - Advanced Data Science with Python
 
 ### 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/yutian-chen-ashley)
+- [LinkedIn](https://www.linkedin.com/in/yutian-chen-ashley)
