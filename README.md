@@ -8,5 +8,10 @@ I'm a passionate software developer with a focus on big data. Currently, I'm bas
 - Kubernetes
 - Advanced Data Science with Python
 
+### Skills
+- **Languages**: Python, Java, SQL
+- **Technologies**: Spark, Kafka, Flink, Hadoop
+- **Tools**: Docker, Git, Jenkins
+
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/yutian-chen-ashley)
